@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038097|-6QQ1boctJVL
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	hs	-1961574877
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	svSession	9894b8602e22ea891e577eb3ca09b9d396eca712961b37f89064b7f74deed7ce5b1cf86b1b18e465275d3c05bec17e3f1e60994d53964e647acf431e4f798bcd5ad95cd76b9cb6dc380026e7629de7657973dfc75e6feef41195131caaaed0ad0a442355ed992b84f5fc039a11bd215ea7955cf0a02d262cb1bc46b6b014dc6b349c65071337d8f3751a7cf304b3577b
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.sweatfxbg.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none
+

@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 29 Oct 2022 15:37:24 at https://www.sweatfxbg.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sweatfxbg.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day7\Web37\Site37" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:38:47	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/decodeURIComponent(e (from https://www.sweatfxbg.com/)
+15:38:47	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/feed.xml (from https://www.sweatfxbg.com/)
+15:38:47	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/b604fd33.min.css (from https://www.sweatfxbg.com/)
+15:38:47	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/caeea34d.min.css (from https://www.sweatfxbg.com/)
+15:38:47	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/99a6a99f.min.css (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/34b72cf9.min.css (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/7a36fe10.chunk.min.js (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/e3671379.chunk.min.js (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~bootstrap-classic.db545a77.chunk.min.js (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~bootstrap.8a86afda.chunk.min.css (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~bootstrap.7a36fe10.chunk.min.js (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~bootstrap-responsive.f3ca696f.chunk.min.css (from https://www.sweatfxbg.com/)
+15:38:48	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~bootstrap-responsive.e3671379.chunk.min.js (from https://www.sweatfxbg.com/)
+15:40:38	Error: 	Unable to save file C:/Users/RAJAT SINGH/OneDrive/Desktop/Internship myknot/Day7/Web37/Site37/static.wixstatic.com/media/aba349_1ed23a47d63442a8a34fc72dc30757f9_mv2.png: Permission denied
+15:40:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 164062 got 0): https://static.wixstatic.com/media/aba349_1ed23a47d63442a8a34fc72dc30757f9~mv2.png
+15:41:18	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/version/ (from https://www.sweatfxbg.com/workouts)
+15:41:26	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/bb623b78.min.css (from https://www.sweatfxbg.com/fit3d)
+15:41:26	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~common-site-members-dialogs.384b0b57.chunk.min.css (from https://www.sweatfxbg.com/fit3d)
+15:41:26	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/rb_wixui.thunderbolt~common-site-members-dialogs.2059cbfd.chunk.min.js (from https://www.sweatfxbg.com/fit3d)
+15:41:53	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/f52e40aa.min.css (from https://www.sweatfxbg.com/location)
+15:42:57	Error: 	"Not Found" (404) at link https://www.sweatfxbg.com/02b07b80.min.css (from https://www.sweatfxbg.com/frequently-asked-questions)
+15:43:03	Error: 	Unable to save file C:/Users/RAJAT SINGH/OneDrive/Desktop/Internship myknot/Day7/Web37/Site37/static.wixstatic.com/media/aba349_5c19cca61df64cdc90d1842721e33aa5_mv2.jpg: Permission denied
+15:43:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 19809308 got 0): https://static.wixstatic.com/media/aba349_5c19cca61df64cdc90d1842721e33aa5~mv2.jpg
+15:43:05	Error: 	Unable to save file C:/Users/RAJAT SINGH/OneDrive/Desktop/Internship myknot/Day7/Web37/Site37/static.wixstatic.com/media/aba349_d81e4444596249d79ece263a01364190_mv2.jpg: Permission denied
+15:43:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 272836 got 0): https://static.wixstatic.com/media/aba349_d81e4444596249d79ece263a01364190~mv2.jpg
+15:43:14	Error: 	Unable to save file C:/Users/RAJAT SINGH/OneDrive/Desktop/Internship myknot/Day7/Web37/Site37/static.wixstatic.com/media/aba349_5e455146bc2f4844bf83f81965bf0a4c_mv2.jpg: Permission denied
+15:43:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 23200564 got 0): https://static.wixstatic.com/media/aba349_5e455146bc2f4844bf83f81965bf0a4c~mv2.jpg
+15:43:16	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 164062 expected)) at link https://static.wixstatic.com/media/aba349_1ed23a47d63442a8a34fc72dc30757f9~mv2.png (from https://www.sweatfxbg.com/gift-card)
+15:43:17	Error: 	Unable to save file C:/Users/RAJAT SINGH/OneDrive/Desktop/Internship myknot/Day7/Web37/Site37/static.wixstatic.com/media/aba349_1ed23a47d63442a8a34fc72dc30757f9_mv2.png: Permission denied
+15:43:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 164062 got 0): https://static.wixstatic.com/media/aba349_1ed23a47d63442a8a34fc72dc30757f9~mv2.png
+15:44:08	Error: 	Exit requested by shell or user
+15:44:08	Error: 	Exit requested by shell or user
+15:44:08	Error: 	Exit requested by shell or user
+15:44:08	Error: 	"" (-1) at link https://www.sweatfxbg.com/product-page/women-s-racerback-tank-cycle-1 (from https://www.sweatfxbg.com/store)
+15:44:08	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 44 seconds : 302 links scanned, 262 files written (177828420 bytes overall) [54778781 bytes received at 135591 bytes/sec], 171243861 bytes transferred using HTTP compression in 165 files, ratio 17%, 1.8 requests per connection
+(29 errors, 6 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
